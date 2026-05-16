@@ -7,6 +7,6 @@ definePageMeta({
 
 <template>
   <h1>Home</h1>
-  <p>Hi, kpop</p>
+  <p>poeees</p>
 
 </template>
